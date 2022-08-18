@@ -2,11 +2,12 @@
 
 ## Overview of the project
 
-In this project, we will be gathering the movie data from kaggle and wikipedia in order to create a databsae. We will be extracting the data from the resources that were provided  and transformed them using Python (Panda Library) to a dataframe and finally, we be will be using PostgresQL to load them.
+In this project, we will be gathering the movie data from kaggle and wikipedia in order to create a database. We will be extracting the data from the resources that were provided and transformed them using Python (Panda Library) to a dataframe and finally, we will be using PostgresQL to load them.
 
 ### Resources
 
 #### Software
+
 • Python
 
 • Jupyter Lab
@@ -27,7 +28,7 @@ In this project, we will be gathering the movie data from kaggle and wikipedia i
 
 ### Write an ETL Function to Read Three Data Files
 
-Three separates DataFrames were created (see below) using Python, Pandas, ETL process and code refactoring
+Three separate DataFrames were created (see below) using Python, Pandas, ETL process and code refactoring.
 
 #### The wiki_movies_df
 
@@ -43,7 +44,7 @@ Three separates DataFrames were created (see below) using Python, Pandas, ETL pr
 
 ### Extract and Transform the Wikipedia Data
 
-In deliverable 2, we extracted,transformed the wikipedia data and merged it with the kaggle metadata. We filtered the IMDb ID, removed the duplicates and formatted the Wikipedia data.
+In deliverable 2, we extracted,transformed the wikipedia data and merged them with the kaggle metadata, we filtered the IMDb ID, removed the duplicates and formatted the Wikipedia data.
 
 #### The wiki_movies_df (after extraction and transformation)
 
@@ -56,7 +57,7 @@ In deliverable 2, we extracted,transformed the wikipedia data and merged it with
 ###  Extract and Transform the Kaggle Data
 
 In deliverable 3, we removed the duplicates, formatted and filtered the data.
-The Kaggle and rating data were merged with the Wikipedia movies DataFrame.
+The kaggle and rating data were merged with the Wikipedia movies DataFrame.
 
 #### The movies_df
 
