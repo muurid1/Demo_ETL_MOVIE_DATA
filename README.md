@@ -2,7 +2,7 @@
 
 ## Overview of the project
 
-In this project, we will be gathering the movie data from kaggle and wikipedia in order to create a databse to and create a database. We will be extracting the data from the resources that were provided  and transform them using Python (Panda Library) to a dataframe and finally, we be will be using PostgresQL to load them.
+In this project, we will be gathering the movie data from kaggle and wikipedia in order to create a databsae. We will be extracting the data from the resources that were provided  and transformed them using Python (Panda Library) to a dataframe and finally, we be will be using PostgresQL to load them.
 
 ### Resources
 
