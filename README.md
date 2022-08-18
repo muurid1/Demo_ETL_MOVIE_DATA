@@ -55,7 +55,7 @@ In deliverable 2, we extracted,transformed the wikipedia data and merged it with
 
 ###  Extract and Transform the Kaggle Data
 
-In deliverable 3, we removed the duplicates, formatted  and filtered the data.
+In deliverable 3, we removed the duplicates, formatted and filtered the data.
 The Kaggle and rating data were merged with the Wikipedia movies DataFrame.
 
 #### The movies_df
@@ -83,4 +83,4 @@ We noticed that the ratings table has 26,024,289 and the movies table 6,052 rows
 
 ## Summary
 
-The ETL function created collects and cleans movie data from wikipedia json, kaggle and ratings csv files. We extracted, transformed, merged and loaded the data into PostgreSQL dataset tables ready to be used for an analysis.
+The ETL function helped create and filter the data from wikipedia json, kaggle and ratings csv files. We extracted, transformed, merged and loaded the data into PostgreSQL dataset tables ready to be used for an analysis.
