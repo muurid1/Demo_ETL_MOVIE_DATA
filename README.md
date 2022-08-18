@@ -83,4 +83,4 @@ We noticed that the ratings table has 26,024,289 and the movies table 6,052 rows
 
 ## Summary
 
-The ETL function helped create and filter the data from wikipedia json, kaggle and ratings csv files. We extracted, transformed, merged and loaded the data into PostgreSQL dataset tables ready to be used for an analysis.
+The ETL function helped create, clean and filter the data from wikipedia json, kaggle and ratings csv files. We extracted, transformed, merged and loaded the data into PostgreSQL dataset tables ready to be used for an analysis.
