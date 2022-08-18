@@ -43,7 +43,7 @@ Three separates DataFrames were created (see below) using Python, Pandas, ETL pr
 
 ### Extract and Transform the Wikipedia Data
 
-In deliverable 2, we extracted and transformed the wikipedia data and merged it with the kaggle metadata. We filtered the IMDb ID, removed the duplicates and formatted the Wikipedia data.
+In deliverable 2, we extracted,transformed the wikipedia data and merged it with the kaggle metadata. We filtered the IMDb ID, removed the duplicates and formatted the Wikipedia data.
 
 #### The wiki_movies_df (after extraction and transformation)
 
